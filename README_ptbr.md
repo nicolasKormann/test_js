@@ -1,6 +1,6 @@
 # test_js
 
-App que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+App que receba um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 ## Configurações
 Para utilização do app primeiro você deve realizar a copia do repositório para sua máquina local:
