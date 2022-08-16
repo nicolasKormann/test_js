@@ -7,6 +7,7 @@ Para utilização do app primeiro você deve realizar a copia do repositório pa
   - <code>git clone git@github.com:nicolasKormann/test_js.git</code>
 
 Abra o diretório onde você realizou a cópia do repositório.
+  - <code>cd test_js</code>
 
 Instale os módulos do node:
   - <code>npm install</code>
