@@ -9,6 +9,7 @@ To use the app, you must first copy the repository to your local machine:
   - <code>git clone git@github.com:nicolasKormann/test_js.git</code>
 
 Open the directory where you made the repository copy.
+  - <code>cd test_js</code>
 
 Install node modules:
   - <code>npm install</code>
